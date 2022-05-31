@@ -1,0 +1,30 @@
+.services {
+    height: 100vh;
+    background-image: url(../image/flax.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.padd-15 {
+    padding: 50px;
+}
+
+nav {
+  background-image: url(../image/flax.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nav-texts {
+  color: var(--dark-green);
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.nav-texts:hover {
+  border-bottom: #006400 solid 2px;
+}
+
+.site-name {
+  color: var(--dark-green);
+}

@@ -1,0 +1,13 @@
+body{
+    background-image: url(../image/login.jpeg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    /* height: 99vh; */
+}
+.form-group{
+    border: rgba(212, 209, 209, 0.374);
+    border-style: outset;
+    /* border-radius: 8px; */
+}

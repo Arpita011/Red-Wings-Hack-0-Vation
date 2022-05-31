@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding:0;
+    /* background-color: blanchedalmond; */
+} 
+
+body {
+    text-align: center;
+    background-image:url(../image/Donation.jpg);
+    background-size:cover;
+
+}
+
+h2{
+    text-align: center;
+    padding-top:50px;
+    color:hsl(0, 91%, 34%);
+    font-family: 'Quicksand', sans-serif;
+    font-weight:600;
+}
+
+h4{
+    text-align:center;
+}
+.btn btn-primary{
+    margin-left:100px;
+    margin-right:100px;
+    padding-left:100px;
+}
+.buttom1{
+    align-items:center;
+
+}
+
+ul {
+    align-items: left !important;
+    text-align: left !important;
+}
+
+ul li {
+list-style-type: disc !important;
+}
+
+.buttom2{
+align-items:center;
+}
+/* .donationrule{
+    margin-left:100px;
+    align-items:center; */
+/* } */
+.donationrule {
+    padding-top:50px;
+    color:hwb(0 0% 100% / 0.837);
+    font-weight:700;
+    font-size:150%;
+    margin-left:100px;;
+}

@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Tiro+Bangla&display=swap");
+
+:root {
+  --dark-green: #006400;
+  --dark-red: #8b0000;
+  --dark-blue: #00008b;
+  --white: #ffffff;
+  --black: #000000;
+}
+
+.nav-texts {
+  color: var(--dark-green);
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.nav-texts:hover {
+  border-bottom: #006400 solid 2px;
+}
+
+.site-name {
+  color: var(--dark-green);
+}
+
+.home-page-bold-text {
+  color: var(--dark-red);
+  padding: 8px;
+  margin-top: 150px;
+}
+
+.home-page-desc {
+  color: var(--dark-blue);
+  font-weight: 700;
+  font-family: "Tiro-bangla";
+  padding: 10px;
+  font-size: 20px;
+}
+
+.know-more-btn {
+  margin-top: 100px;
+  font-size: 20px;
+  font-weight: bold;
+  color: var(--white);
+  border-width: 3px;
+}
+
+.nav-btns {
+  font-weight: bold;
+  color: var(--dark-red);
+  border-width: 3px;
+}
+
+.home-cont {
+  background-image: url(../image/cool-background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+.home-img {
+  margin-top: 70px;
+  margin-left: 100px;
+}
+
+.experience {
+  height: auto;
+}
+
+.ex-cont {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.services {
+  height: auto;
+}
+
+.padd-15 {
+  padding: 50px;
+}
+
+.faq {
+  height: auto;
+}
+
+.mar-15 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.content-cont {
+  background-image: url(../image/flax.jpg);
+  width: 100%;
+  height: auto;
+}
+
+.home-items-all {
+  background-image: url(../image/flax.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

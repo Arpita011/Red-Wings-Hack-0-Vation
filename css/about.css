@@ -1,0 +1,56 @@
+:root {
+    --dark-green: #006400;
+    --dark-red: #8b0000;
+    --dark-blue: #00008b;
+    --white: #ffffff;
+    --black: #000000;
+  }
+  
+  nav {
+    background-image: url(assets/images/flax.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .nav-btns {
+    font-weight: bold;
+    color: var(--white);
+    border-width: 3px;
+  }
+  
+  .nav-texts {
+    color: var(--dark-green);
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
+  .nav-texts:hover {
+    border-bottom: #006400 solid 2px;
+  }
+  
+  .site-name {
+    color: var(--dark-green);
+  }
+  
+  .about-imgs {
+    width: 300px;
+    height: 200px;
+  }
+  
+  .about {
+    height: 100vh;
+    background-image: url(../image/flax.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .about-first {
+    margin-left: 100px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+  }
+  
+  .about-second {
+    margin-left: 110px;
+  }
+  
